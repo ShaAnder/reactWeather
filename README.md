@@ -64,7 +64,7 @@ npm start or press run
 <h2>Contributing</h2>
 
 Got any issues or see any problems with the code? Check here:<br>
-[Issue Tracker](github.com/reactWeather/issues)
+[Issue Tracker](https://github.com/ShaAnder/reactWeather/issues)
 
 </div>
 
